@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Gruvbox — Dark Hard (Orange Active)",
+  "version": "1.0.0",
+  "description": "Gruvbox Dark Hard variant matching dotfiles theme with #1D2021 background, #3C3836 active areas, and orange accents.",
+  "theme": {
+    "color_scheme": "dark",
+    "colors": {
+      "frame": [29, 32, 33],
+      "frame_inactive": [29, 32, 33],
+
+      "toolbar": [60, 56, 54],
+      "tab_text": [235, 219, 178],
+      "tab_background_text": [146, 131, 116],
+      "bookmark_text": [235, 219, 178],
+
+      "ntp_background": [29, 32, 33],
+      "ntp_text": [235, 219, 178],
+      "ntp_link": [254, 128, 25],
+      "ntp_section": [29, 32, 33],
+
+      "omnibox_background": [29, 32, 33],
+      "omnibox_text": [254, 128, 25],
+
+      "omnibox_popup_background": [29, 32, 33],
+      "omnibox_popup_border": [29, 32, 33],
+      "omnibox_popup_text": [235, 219, 178],
+      "omnibox_popup_highlight": [60, 56, 54],
+      "omnibox_popup_highlight_text": [254, 128, 25]
+    },
+    "tints": {
+      "buttons": [0.067, 0.902, 0.547]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

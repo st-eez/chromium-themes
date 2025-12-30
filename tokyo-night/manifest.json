@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Tokyo Night — True Night (Blue Active)",
+  "version": "3.8.0",
+  "description": "Tokyo Night Night variant matching sketchybar theme with #1A1B26 background, #2D3650 active areas, and blue accents.",
+  "theme": {
+    "color_scheme": "dark",
+    "colors": {
+      "frame": [26, 27, 38],
+      "frame_inactive": [26, 27, 38],
+
+      "toolbar": [36, 41, 59],
+      "tab_text": [192, 202, 245],
+      "tab_background_text": [154, 165, 206],
+      "bookmark_text": [192, 202, 245],
+
+      "ntp_background": [26, 27, 38],
+      "ntp_text": [192, 202, 245],
+      "ntp_link": [122, 162, 247],
+      "ntp_section": [26, 27, 38],
+
+      "omnibox_background": [26, 27, 38],
+      "omnibox_text": [122, 162, 247],
+
+      "omnibox_popup_background": [26, 27, 38],
+      "omnibox_popup_border": [26, 27, 38],
+      "omnibox_popup_text": [192, 202, 245],
+      "omnibox_popup_highlight": [36, 41, 59],
+      "omnibox_popup_highlight_text": [122, 162, 247]
+    },
+    "tints": {
+      "buttons": [0.726, 0.786, 0.853]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

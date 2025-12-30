@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Everforest — Dark Medium (Green Active)",
+  "version": "1.0.0",
+  "description": "Everforest Dark Medium variant matching dotfiles theme with #2D353B background, #3D484D active areas, and green accents.",
+  "theme": {
+    "color_scheme": "dark",
+    "colors": {
+      "frame": [45, 53, 59],
+      "frame_inactive": [45, 53, 59],
+
+      "toolbar": [61, 72, 77],
+      "tab_text": [211, 198, 170],
+      "tab_background_text": [133, 146, 137],
+      "bookmark_text": [211, 198, 170],
+
+      "ntp_background": [45, 53, 59],
+      "ntp_text": [211, 198, 170],
+      "ntp_link": [167, 192, 128],
+      "ntp_section": [45, 53, 59],
+
+      "omnibox_background": [45, 53, 59],
+      "omnibox_text": [167, 192, 128],
+
+      "omnibox_popup_background": [45, 53, 59],
+      "omnibox_popup_border": [45, 53, 59],
+      "omnibox_popup_text": [211, 198, 170],
+      "omnibox_popup_highlight": [61, 72, 77],
+      "omnibox_popup_highlight_text": [167, 192, 128]
+    },
+    "tints": {
+      "buttons": [0.292, 0.333, 0.627]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
