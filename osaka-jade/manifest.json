@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Osaka Jade — Dark (Cyan Active)",
+  "version": "1.0.0",
+  "description": "Osaka Jade dark variant matching sketchybar theme with #111C18 background, #23372B active areas, and cyan accents.",
+  "theme": {
+    "color_scheme": "dark",
+    "colors": {
+      "frame": [17, 28, 24],
+      "frame_inactive": [17, 28, 24],
+
+      "toolbar": [35, 55, 43],
+      "tab_text": [193, 196, 151],
+      "tab_background_text": [83, 104, 91],
+      "bookmark_text": [193, 196, 151],
+
+      "ntp_background": [17, 28, 24],
+      "ntp_text": [193, 196, 151],
+      "ntp_link": [45, 213, 183],
+      "ntp_section": [17, 28, 24],
+
+      "omnibox_background": [17, 28, 24],
+      "omnibox_text": [45, 213, 183],
+
+      "omnibox_popup_background": [17, 28, 24],
+      "omnibox_popup_border": [17, 28, 24],
+      "omnibox_popup_text": [193, 196, 151],
+      "omnibox_popup_highlight": [35, 55, 43],
+      "omnibox_popup_highlight_text": [45, 213, 183]
+    },
+    "tints": {
+      "buttons": [0.469, 0.65, 0.51]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

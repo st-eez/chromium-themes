@@ -9,6 +9,7 @@ Dark themes matching my dotfiles theme-switcher.
 | [Tokyo Night](tokyo-night/) | Night | `#1A1B26` | Blue `#7AA2F7` |
 | [Everforest](everforest/) | Dark Medium | `#2D353B` | Green `#A7C080` |
 | [Gruvbox](gruvbox/) | Dark Hard | `#1D2021` | Orange `#FE8019` |
+| [Osaka Jade](osaka-jade/) | Dark | `#111C18` | Cyan `#2DD5B7` |
 
 ## Install
 
