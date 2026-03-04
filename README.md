@@ -10,6 +10,7 @@ Dark themes matching my dotfiles theme-switcher.
 | [Everforest](everforest/) | Dark Medium | `#2D353B` | Green `#A7C080` |
 | [Gruvbox](gruvbox/) | Dark Hard | `#1D2021` | Orange `#FE8019` |
 | [Osaka Jade](osaka-jade/) | Dark | `#111C18` | Cyan `#2DD5B7` |
+| [Vantasteez](vantasteez/) | Dark Tinted | `#0D0D0D` | Monochrome `#EAEAEA` |
 
 ## Install
 

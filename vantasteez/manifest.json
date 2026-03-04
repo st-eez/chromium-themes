@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Vantasteez — Monochrome (Vantablack Style)",
+  "version": "1.0.0",
+  "description": "Vantasteez canonical palette adapted to a monochrome Chromium theme with Vantablack-style contrast.",
+  "theme": {
+    "color_scheme": "dark",
+    "colors": {
+      "frame": [13, 13, 13],
+      "frame_inactive": [13, 13, 13],
+
+      "toolbar": [42, 42, 42],
+      "tab_text": [234, 234, 234],
+      "tab_background_text": [138, 138, 138],
+      "bookmark_text": [234, 234, 234],
+
+      "ntp_background": [13, 13, 13],
+      "ntp_text": [234, 234, 234],
+      "ntp_link": [234, 234, 234],
+      "ntp_section": [13, 13, 13],
+
+      "omnibox_background": [13, 13, 13],
+      "omnibox_text": [234, 234, 234],
+
+      "omnibox_popup_background": [13, 13, 13],
+      "omnibox_popup_border": [13, 13, 13],
+      "omnibox_popup_text": [234, 234, 234],
+      "omnibox_popup_highlight": [42, 42, 42],
+      "omnibox_popup_highlight_text": [234, 234, 234]
+    },
+    "tints": {
+      "buttons": [0.0, 0.0, 0.918]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
