@@ -1,17 +1,17 @@
 {
   "manifest_version": 3,
   "name": "Vantasteez — Monochrome (Vantablack Style)",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "Vantasteez canonical palette adapted to a monochrome Chromium theme with Vantablack-style contrast for Helium 0.11.6+.",
   "theme": {
     "color_scheme": "dark",
     "colors": {
-      "frame": [42, 42, 42],
-      "frame_inactive": [42, 42, 42],
+      "frame": [24, 24, 24],
+      "frame_inactive": [24, 24, 24],
 
-      "toolbar": [13, 13, 13],
+      "toolbar": [0, 0, 0],
       "tab_text": [234, 234, 234],
-      "tab_background_text": [138, 138, 138],
+      "tab_background_text": [110, 110, 110],
       "bookmark_text": [234, 234, 234],
 
       "ntp_background": [13, 13, 13],
@@ -19,7 +19,7 @@
       "ntp_link": [234, 234, 234],
       "ntp_section": [13, 13, 13],
 
-      "omnibox_background": [13, 13, 13],
+      "omnibox_background": [0, 0, 0],
       "omnibox_text": [234, 234, 234],
 
       "omnibox_popup_background": [13, 13, 13],
